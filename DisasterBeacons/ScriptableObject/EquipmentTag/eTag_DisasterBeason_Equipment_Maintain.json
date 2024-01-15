@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "DisasterBeason_Equipment_Maintain",
+        "LocalizationKey": "DisasterBeacons_eTag_DisasterBeason_Maintain_InGameName",
+        "ParentObjectID": "68caa8cd50e57bd41bab415e49c2f2be"
+    },
+    "MandatoryEquip": true,
+    "MaxEquipped": 25,
+    "NotifyWhenNew": false
+}

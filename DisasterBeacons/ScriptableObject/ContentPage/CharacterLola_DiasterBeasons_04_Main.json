@@ -1,0 +1,115 @@
+{
+    "BackButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "GlobalPageLinks": [],
+    "LeftButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "LeftButtonWarpData": "CharacterLola_DiasterBeasons_03_Main",
+    "LeftButtonWarpType": 3,
+    "PageDisplay": 0,
+    "PageIllustration": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PageTitle": {
+        "DefaultText": "最终命运",
+        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_1__FacingDestiny_PageTitle",
+        "ParentObjectID": "23b0c808af1ee15438b8a19aad420c8e"
+    },
+    "RightButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "Sections": [
+        {
+            "Entries": [
+                {
+                    "AnchorObjectiveTo": 0,
+                    "Conditions": [],
+                    "Content": {
+                        "DefaultText": "寻找不死传说的真相",
+                        "LocalizationKey": "DisasterBeacons_DiaasterBeasons_Lola_FacingDestiny_Sections[0].Entries[0].Content",
+                        "ParentObjectID": "23b0c808af1ee15438b8a19aad420c8e"
+                    },
+                    "ContentAlignment": 0,
+                    "Image": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "ImageSizeMultiplier": 0,
+                    "InfoDisplay": 1,
+                    "ObjectiveDisplayOptions": 0,
+                    "OrderOfElements": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "OverrideAlignment": false,
+                    "PageLinks": [],
+                    "RelatedObjective": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "RelatedObjectiveWarpData": "0c056077a5c711ed8de704ea56599bd2",
+                    "RelatedObjectiveWarpType": 3,
+                    "SpaceBtwnButtons": 0,
+                    "SpaceBtwnElements": 0,
+                    "StretchButtons": false,
+                    "Title": {
+                        "DefaultText": "命运",
+                        "LocalizationKey": "DisasterBeacons_DiaasterBeasons_Lola_FacingDestiny_Sections[0].Entries[0].Title",
+                        "ParentObjectID": "23b0c808af1ee15438b8a19aad420c8e"
+                    },
+                    "WebLinks": []
+                },
+                {
+                    "AnchorObjectiveTo": 0,
+                    "Conditions": [],
+                    "Content": {
+                        "DefaultText": "返回现代都市",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_04_Main_Sections[0].Entries[1].Content",
+                        "ParentObjectID": "23b0c808af1ee15438b8a19aad420c8e"
+                    },
+                    "ContentAlignment": 0,
+                    "Image": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "ImageSizeMultiplier": 0,
+                    "InfoDisplay": 1,
+                    "ObjectiveDisplayOptions": 0,
+                    "OrderOfElements": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "OverrideAlignment": false,
+                    "PageLinks": [],
+                    "RelatedObjective": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "RelatedObjectiveWarpData": "e29330d669008914b9794d91acf2ba65",
+                    "RelatedObjectiveWarpType": 3,
+                    "SpaceBtwnButtons": 0,
+                    "SpaceBtwnElements": 0,
+                    "StretchButtons": false,
+                    "Title": {
+                        "DefaultText": "逃离海岛",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_04_Main.json_Sections[0].Entries[1].Title",
+                        "ParentObjectID": "23b0c808af1ee15438b8a19aad420c8e"
+                    },
+                    "WebLinks": []
+                }
+            ],
+            "SectionDisplay": 1,
+            "SpaceBtwnEntries": 0
+        }
+    ],
+    "SpaceBtwnSections": 0,
+    "TitleSeparator": false
+}

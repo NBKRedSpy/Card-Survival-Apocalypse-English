@@ -1,0 +1,162 @@
+{
+    "MatchTagWarpData": [
+        "tag_OpenWound"
+    ],
+    "PassiveEffectsWarpData": [
+        {
+            "Conditions": {
+                "NotInBackground": false,
+                "RequiredCardsInInventory": [],
+                "RequiredCardsInInventoryWarpData": [],
+                "RequiredCardsInInventoryWarpType": 3,
+                "RequiredCardsNOTOnBoard": [],
+                "RequiredCardsOnBoard": [],
+                "RequiredContainer": [],
+                "RequiredContainerTags": [],
+                "RequiredDurabilityRanges": {
+                    "FuelRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "LiquidQuantityRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "ProgressRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special1Range": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special2Range": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special3Range": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special4Range": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "SpoilageRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "UsageRange": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                "RequiredEnvironment": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredEnvironmentTags": [],
+                "RequiredLiquidContainers": [],
+                "RequiredStatValues": [],
+                "RequiredTagsInInventory": [],
+                "RequiredTagsInInventoryWarpData": [
+                    "CardTag_DiasterBeason_CureDrugs_Level_Three"
+                ],
+                "RequiredTagsInInventoryWarpType": 3,
+                "RequiredTagsNOTOnBoard": [],
+                "RequiredTagsOnBoard": []
+            },
+            "ConsumableChargesModifier": {
+                "Active": false,
+                "FloatValue": 0
+            },
+            "EffectName": "Dressing (strong)",
+            "EffectStacksWithRequiredCards": false,
+            "FuelRateModifier": {
+                "Active": true,
+                "FloatValue": -1.0
+            },
+            "GeneratedLiquid": {
+                "LiquidCard": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "Quantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "LiquidRateModifier": 0,
+            "OnBoardEffectCap": 0,
+            "OnlyOnBaseActions": false,
+            "OnlyWhenEquipped": false,
+            "OnlyWhenNotInBG": false,
+            "Special1RateModifier": {
+                "Active": false,
+                "FloatValue": 0
+            },
+            "Special2RateModifier": {
+                "Active": false,
+                "FloatValue": 0
+            },
+            "Special3RateModifier": {
+                "Active": false,
+                "FloatValue": 0
+            },
+            "Special4RateModifier": {
+                "Active": false,
+                "FloatValue": 0
+            },
+            "SpoilageRateModifier": {
+                "Active": true,
+                "FloatValue": 3.0
+            },
+            "StatModifiers": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "dd5c599cbbb18ea4c96fc64374147a3c",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 2,
+                        "y": 2
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "7f4598bd0e82e7b499da3848e452c39f",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": -6.0,
+                        "y": -6.0
+                    }
+                }
+            ],
+            "UsageRateModifier": {
+                "Active": false,
+                "FloatValue": 1
+            },
+            "WeightCapacityModifier": 0
+        }
+    ],
+    "PassiveEffectsWarpType": 4
+}

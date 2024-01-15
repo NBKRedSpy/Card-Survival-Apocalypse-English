@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "Bite",
+        "LocalizationKey": "DisasterBeacons_eTag_DiasterBeason_W_InGameName",
+        "ParentObjectID": "deacbb2825c81b74e90f0f4ebd04d03f"
+    },
+    "MandatoryEquip": true,
+    "MaxEquipped": 0,
+    "NotifyWhenNew": true
+}

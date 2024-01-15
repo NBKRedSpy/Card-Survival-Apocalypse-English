@@ -1,0 +1,162 @@
+{
+    "BackButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "GlobalPageLinks": [],
+    "LeftButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "LeftButtonWarpData": "CharacterLola_DiasterBeasons_01_Default",
+    "LeftButtonWarpType": 3,
+    "PageDisplay": 1,
+    "PageIllustration": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PageTitle": {
+        "DefaultText": "神秘岛屿",
+        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_1_SurvivalBasics_PageTitleyo",
+        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+    },
+    "RightButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "RightButtonWarpData": "CharacterLola_DiasterBeasons_03_Main",
+    "RightButtonWarpType": 3,
+    "Sections": [
+        {
+            "Entries": [
+                {
+                    "AnchorObjectiveTo": 0,
+                    "Conditions": [],
+                    "Content": {
+                        "DefaultText": "童话与现实的交织",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[1].Entries[0].Content",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "ContentAlignment": 0,
+                    "Image": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "ImageSizeMultiplier": 0,
+                    "ImageWarpData": "CharacterLola_DiasterBeasons_02_Main_RainBow",
+                    "ImageWarpType": 3,
+                    "InfoDisplay": 2,
+                    "ObjectiveDisplayOptions": 0,
+                    "OrderOfElements": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "OverrideAlignment": false,
+                    "PageLinks": [],
+                    "RelatedObjective": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "RelatedObjectiveWarpData": "5ab1dc189a3311ed9c2404ea56599bd2",
+                    "RelatedObjectiveWarpType": 3,
+                    "SpaceBtwnButtons": 0,
+                    "SpaceBtwnElements": 0,
+                    "StretchButtons": false,
+                    "Title": {
+                        "DefaultText": "彩虹",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[1].Entries[0].Title",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "WebLinks": []
+                },
+                {
+                    "AnchorObjectiveTo": 0,
+                    "Conditions": [],
+                    "Content": {
+                        "DefaultText": "远观那万鸟迁徙",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[1].Entries[1].Content",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "ContentAlignment": 0,
+                    "Image": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "ImageSizeMultiplier": 0,
+                    "ImageWarpData": "CharacterLola_DiasterBeasons_02_Main_GeeseSouth",
+                    "ImageWarpType": 3,
+                    "InfoDisplay": 2,
+                    "ObjectiveDisplayOptions": 0,
+                    "OrderOfElements": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "OverrideAlignment": false,
+                    "PageLinks": [],
+                    "RelatedObjective": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "RelatedObjectiveWarpData": "13b099089a3411ed8a1604ea56599bd2",
+                    "RelatedObjectiveWarpType": 3,
+                    "SpaceBtwnButtons": 0,
+                    "SpaceBtwnElements": 0,
+                    "StretchButtons": false,
+                    "Title": {
+                        "DefaultText": "大雁南飞",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[1].Entries[1].Title",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "WebLinks": []
+                },
+                {
+                    "AnchorObjectiveTo": 0,
+                    "Conditions": [],
+                    "Content": {
+                        "DefaultText": "绝境逢生",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[1].Entries[2].Content",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "ContentAlignment": 0,
+                    "Image": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "ImageSizeMultiplier": 0,
+                    "ImageWarpData": "CharacterLola_DiasterBeasons_02_Main_TornadoShark",
+                    "ImageWarpType": 3,
+                    "InfoDisplay": 2,
+                    "ObjectiveDisplayOptions": 0,
+                    "OrderOfElements": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "OverrideAlignment": false,
+                    "PageLinks": [],
+                    "RelatedObjective": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "RelatedObjectiveWarpData": "38f0c9999af911eda33504ea56599bd2",
+                    "RelatedObjectiveWarpType": 3,
+                    "SpaceBtwnButtons": 0,
+                    "SpaceBtwnElements": 0,
+                    "StretchButtons": false,
+                    "Title": {
+                        "DefaultText": "鲨龙卷",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[1].Entries[2].Title",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "WebLinks": []
+                }
+            ],
+            "SectionDisplay": 0,
+            "SpaceBtwnEntries": 0
+        }
+    ],
+    "SpaceBtwnSections": 0,
+    "TitleSeparator": false
+}

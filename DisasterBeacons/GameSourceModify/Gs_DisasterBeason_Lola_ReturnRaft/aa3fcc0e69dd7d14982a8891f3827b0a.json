@@ -1,0 +1,34 @@
+{
+    "CardsOnBoardWarpData": [
+        {
+            "Card": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "CardWarpData": "2e16ee019d6011edb22504ea56599bd2",
+            "CardWarpType": 3,
+            "CompletionWeight": 0,
+            "ConstantlyChecking": false,
+            "ObjectiveName": "",
+            "OnlyInEnvironment": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "Quantity": 1
+        }
+    ],
+    "CardsOnBoardWarpType": 4,
+    "CompletedObjectivesWarpData": [
+        {
+            "CompletionWeight": 1,
+            "ObjectiveCondition": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "ObjectiveConditionWarpData": "0c056077a5c711ed8de704ea56599bd2",
+            "ObjectiveConditionWarpType": 3,
+            "ObjectiveName": "RaftReady"
+        }
+    ],
+    "CompletedObjectivesWarpType": 4
+}

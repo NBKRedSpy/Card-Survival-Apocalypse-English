@@ -1,0 +1,8 @@
+{
+    "InGameName": {
+        "DefaultText": "Nc_Civilization_GardenSky_Protect",
+        "LocalizationKey": "DisasterBeacons_CardTag_Civilization_GardenSky_Protect_InGameName",
+        "ParentObjectID": "370de9af1a7aed64e816e6f4d008eca7"
+    },
+    "UniqueOnBoard": false
+}

@@ -1,0 +1,29 @@
+{
+    "StatusesWarpData": [
+        {
+            "EffectsOnStatsWarpData": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -1.0,
+                        "y": -1.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "af11b68abe0e425380dff927ed374f9f",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ],
+            "EffectsOnStatsWarpType": 4
+        }
+    ],
+    "StatusesWarpType": 5
+}

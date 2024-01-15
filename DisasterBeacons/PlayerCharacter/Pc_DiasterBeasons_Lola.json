@@ -1,0 +1,84 @@
+{
+    "AddedStartingHour": 0,
+    "BaseAndItemCards": [],
+    "BaseAndItemCardsWarpData": [],
+    "BaseAndItemCardsWarpType": 3,
+    "CharacterDescription": {
+        "DefaultText": "劳拉，世界语言学者与考古学家。自幼时有一个圆满的家庭，但这一切都在某次事故后改变了。当年父亲执着于长生不死的传说而身败名裂甚至众叛亲离，那时小时候的劳拉无法理解他的所作所为。随时间流逝，劳拉走过了邪马台、见证过百慕大、科特兹失落之城后。现在的她明白了父亲所说的话可能为真。为了完成父亲的研究并洗刷他的冤屈，劳拉决定独自前往位于印度尼西亚西北边境的未知岛屿，探寻事件的真相。",
+        "LocalizationKey": "DisasterBeacons_Pc_DiasterBeasons_Lola_CharacterDescriptiony",
+        "ParentObjectID": "00805abb99a911edb82704ea56599bd2"
+    },
+    "CharacterName": {
+        "DefaultText": "罗拉·克劳芬",
+        "LocalizationKey": "DisasterBeacons_Pc_DiasterBeasons_Lola_CharacterName",
+        "ParentObjectID": "00805abb99a911edb82704ea56599bd2"
+    },
+    "CharacterPerks": [],
+    "CharacterPerksWarpData": [
+        "ba4cb100ab554d442b7ecddc2f948c08",
+        "705e3ec400280aa449cff5a23f7a60a5",
+        "d69e79301cf6a7743abad816d6269313",
+        "5dcec9a2dadb5864ca3bd23c6cada369",
+        "70ee266f6df69a64789b8b96f450dd68",
+        "890f1266e24a68d47a29a8186833b165",
+        "90db347945ceb5940abfd06377ba47d3",
+        "b280a77c8fe311edabf404ea56599bd2",
+        "d29f8209798c04449bd2dcbcc4745715",
+        "0015b2ae83145b345a5bef2105739d5d",
+        "b51278a30a1d22f4c80f02eabb132799",
+        "f449e15db5584a94a60586f92cee7baa"
+    ],
+    "CharacterPerksWarpType": 3,
+    "CharacterPortrait": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "CharacterPortraitWarpData": "Pc_DiasterBeasons_Lola",
+    "CharacterPortraitWarpType": 3,
+    "EasyPackage": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "EasyPackageWarpData": "98c493b5cf9df4449a845c647b175bf2",
+    "EasyPackageWarpType": 3,
+    "EditorOnly": false,
+    "Environment": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "EnvironmentWarpData": "2ea0cba7a03846a5b17603dce31324f8",
+    "EnvironmentWarpType": 3,
+    "Guide": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "InitialStatModifiers": [],
+    "Journal": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "JournalWarpData": "NoSupport",
+    "JournalWarpType": 3,
+    "Locations": [],
+    "MoonsCost": 0,
+    "PlayerCharacterJournalName": "CharacterLola_DiasterBeasons",
+    "StartingClothes": [],
+    "StartingClothesWarpData": [
+        "290fe47deaddb514b9734b26a9e361f3",
+        "b990716a2a755d0418f5e5da63d452bc",
+        "0d3cb6329a3c11ed97fb04ea56599bd2",
+        "5eb42c799a3d11edb6ab04ea56599bd2",
+        "183b55d6013deaa41bb75ba0cb59efd7",
+        "c0022a3aac2d8f9418750d406569638d",
+        "a4b3cc05b1a93d24db4504133663e770"
+    ],
+    "StartingClothesWarpType": 3,
+    "SunsCost": 1,
+    "UniqueID": "00805abb99a911edb82704ea56599bd2",
+    "Weather": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "WeatherWarpData": "dccd32700d244524bed4a2e350fc39e6",
+    "WeatherWarpType": 3
+}

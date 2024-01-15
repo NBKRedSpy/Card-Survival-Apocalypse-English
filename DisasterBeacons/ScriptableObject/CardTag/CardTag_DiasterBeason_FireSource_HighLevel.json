@@ -1,0 +1,9 @@
+{
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "CardTag_DiasterBeason_FireSource_HighLevel",
+        "LocalizationKey": "CardTag_DiasterBeason_FireSource_HighLevel_InGameName",
+        "ParentObjectID": "370de9af1a7aed64e816e6f4d008eca7"
+    },
+    "UniqueOnBoard": false
+}

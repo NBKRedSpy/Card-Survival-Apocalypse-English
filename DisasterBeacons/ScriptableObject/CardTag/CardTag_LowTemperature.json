@@ -1,0 +1,9 @@
+{
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "CardTag_LowTemperature",
+        "LocalizationKey": "CardTag_LowTemperature_InGameName",
+        "ParentObjectID": "77de1f053ebdb06429821d8cf48ea9d0"
+    },
+    "UniqueOnBoard": false
+}

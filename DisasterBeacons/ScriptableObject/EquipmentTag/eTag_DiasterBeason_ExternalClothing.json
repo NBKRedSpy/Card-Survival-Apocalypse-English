@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "eTag_DiasterBeason_ExternalClothing",
+        "LocalizationKey": "eTag_DiasterBeason_ExternalClothing_InGameName",
+        "ParentObjectID": "68caa8cd50e57bd41bab415e49c2f2be"
+    },
+    "MandatoryEquip": false,
+    "MaxEquipped": 3,
+    "NotifyWhenNew": false
+}

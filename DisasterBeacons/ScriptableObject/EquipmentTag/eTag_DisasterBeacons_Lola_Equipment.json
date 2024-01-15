@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "Gloves",
+        "LocalizationKey": "DisasterBeacons_eTag_Hands_InGameName",
+        "ParentObjectID": "2c377135c09c982488f95f550b62e9c6"
+    },
+    "MandatoryEquip": false,
+    "MaxEquipped": "5",
+    "NotifyWhenNew": false
+}

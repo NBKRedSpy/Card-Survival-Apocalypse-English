@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "\u5e7d\u7075\u9879\u94fe",
+        "LocalizationKey": "DisasterBeacons_eTag_GhostShip_BoneNeck_Equipment_InGameName",
+        "ParentObjectID": "11720683cce9c5d4386c79277a0a360e"
+    },
+    "MandatoryEquip": true,
+    "MaxEquipped": 1,
+    "NotifyWhenNew": false
+}

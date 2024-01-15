@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "\u81ea\u7136\u4e4b\u7075",
+        "LocalizationKey": "DisasterBeacons_eTag_FlowerSea_Heart_Nature_InGameName",
+        "ParentObjectID": "2c377135c09c982488f95f550b62e9c6"
+    },
+    "MandatoryEquip": false,
+    "MaxEquipped": "5",
+    "NotifyWhenNew": false
+}

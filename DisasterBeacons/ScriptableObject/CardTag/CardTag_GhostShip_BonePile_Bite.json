@@ -1,0 +1,8 @@
+{
+    "InGameName": {
+        "DefaultText": "\u4ea1\u7075\u635f\u4f24",
+        "LocalizationKey": "DisasterBeacons_CardTag_GhostShip_BonePile_Bite_InGame",
+        "ParentObjectID": "b02ad106de3704247a0c8c244d9bfc79"
+    },
+    "UniqueOnBoard": false
+}

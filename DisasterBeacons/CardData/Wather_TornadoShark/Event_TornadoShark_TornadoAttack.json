@@ -1,0 +1,4661 @@
+{
+    "ActionRange": 0,
+    "ActiveCounters": [],
+    "AffectStatsOnlyOnBase": false,
+    "AffectStatsOnlyWhenEquipped": false,
+    "AffectStatsOnlyWhenNotInBackground": false,
+    "AlwaysUpdate": false,
+    "Ambience": {
+        "AmbienceConditions": {
+            "FuelRange": {
+                "x": 0,
+                "y": 0
+            },
+            "LiquidQuantityRange": {
+                "x": 0,
+                "y": 0
+            },
+            "ProgressRange": {
+                "x": 0,
+                "y": 0
+            },
+            "Special1Range": {
+                "x": 0,
+                "y": 0
+            },
+            "Special2Range": {
+                "x": 0,
+                "y": 0
+            },
+            "Special3Range": {
+                "x": 0,
+                "y": 0
+            },
+            "Special4Range": {
+                "x": 0,
+                "y": 0
+            },
+            "SpoilageRange": {
+                "x": 0,
+                "y": 0
+            },
+            "UsageRange": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "BackgroundSound": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "RandomNoises": []
+    },
+    "AmmoNeeded": [],
+    "AmmoUsageCost": 0.0,
+    "AppliesCoverWhenEquipped": false,
+    "ArmorValues": {
+        "HeadArmor": 0.0,
+        "HeadArmorModifiers": [],
+        "HeadHitProbabilityModifier": 0.0,
+        "LArmArmor": 0.0,
+        "LArmArmorModifiers": [],
+        "LArmHitProbabilityModifier": 0.0,
+        "LLegArmor": 0.0,
+        "LLegArmorModifiers": [],
+        "LLegHitProbabilityModifier": 0.0,
+        "RArmArmor": 0.0,
+        "RArmArmorModifiers": [],
+        "RArmHitProbabilityModifier": 0.0,
+        "RLegArmor": 0.0,
+        "RLegArmorModifiers": [],
+        "RLegHitProbabilityModifier": 0.0,
+        "TorsoArmor": 0.0,
+        "TorsoArmorModifiers": [],
+        "TorsoHitProbabilityModifier": 0.0
+    },
+    "BPRandomSingleDrop": false,
+    "BaseBackground": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "BaseClashValue": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "BlueprintActionTags": [],
+    "BlueprintCardConditions": [],
+    "BlueprintCardModifications": [],
+    "BlueprintFinishedLog": {
+        "Category": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "LogText": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        }
+    },
+    "BlueprintResult": [],
+    "BlueprintStages": [],
+    "BlueprintStatConditions": [],
+    "BlueprintStatModifications": [],
+    "BlueprintTagConditions": [],
+    "BlueprintUnlockSunsCost": 0,
+    "BrokenDuringCombatLog": {
+        "AlternateLogTexts": [],
+        "LogText": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ScreenShake": false,
+        "SoundEffects": []
+    },
+    "BuildSounds": [],
+    "BuildingCardConditions": [],
+    "BuildingDaytimeCost": 0,
+    "BuildingStatConditions": [],
+    "BuildingTagConditions": [],
+    "CanBeRenamed": false,
+    "CanDragItemsToTravel": false,
+    "CannotBeTrashed": false,
+    "CannotEmpty": false,
+    "CannotSpawnDuringTickCatchup": false,
+    "CardBackground": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "CardBackgroundWarpData": "BG_SandTop",
+    "CardBackgroundWarpType": 3,
+    "CardDescription": {
+        "DefaultText": "狂风乱舞！大树被连根拔起，周边的事物全部被卷入空中！",
+        "LocalizationKey": "DisasterBeasons_Event_TornadoShark_TornadoAttack_CardDescription",
+        "ParentObjectID": "05ff79a2904111eda76f04ea56599bd2"
+    },
+    "CardImage": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "CardImageWarpData": "TornadoShark_Nearby",
+    "CardImageWarpType": 3,
+    "CardInteractions": [],
+    "CardName": {
+        "DefaultText": "飓风侵袭",
+        "LocalizationKey": "DisasterBeasons_Event_TornadoShark_TornadoAttack_CardName",
+        "ParentObjectID": "05ff79a2904111eda76f04ea56599bd2"
+    },
+    "CardTags": [],
+    "CardType": 3,
+    "CardsOnBoard": [],
+    "CarriesOverTo": [],
+    "ClashIneffectiveRangeMalus": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "ClashRangedInaccuracy": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "ClashStealthBonus": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "ClashVsEscapeBonus": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "CompletedObjectives": [],
+    "ContainedLiquidTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "ContentWeightReduction": 0,
+    "CookingConditions": {
+        "CookingPausedNotification": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "CookingPausedSound": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "ExtraFuelRate": 0,
+        "ExtraProgressRate": 0,
+        "ExtraSpecial1Rate": 0,
+        "ExtraSpecial2Rate": 0,
+        "ExtraSpecial3Rate": 0,
+        "ExtraSpecial4Rate": 0,
+        "ExtraSpoilageRate": 0,
+        "ExtraUsageRate": 0,
+        "NeedsFuel": false,
+        "NeedsProgress": false,
+        "NeedsSpecial1": false,
+        "NeedsSpecial2": false,
+        "NeedsSpecial3": false,
+        "NeedsSpecial4": false,
+        "NeedsSpoilage": false,
+        "NeedsUsage": false
+    },
+    "CookingRecipes": [],
+    "CookingSprite": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "DamageTypes": [],
+    "DeconstructDaytimeCost": 0,
+    "DeconstructSounds": [],
+    "DefaultEnvCards": [],
+    "DefaultLiquidContained": {
+        "LiquidCard": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "Quantity": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "DefaultLiquidImage": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "DismantleActions": [
+        {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "CategoryWarpData": "b9c28064ed8c3544c8b6539f16b2d029",
+                "CategoryWarpType": 3,
+                "LogText": {
+                    "DefaultText": "A storm carried some of my stuff away.",
+                    "LocalizationKey": "DisasterBeasons_Event_TornadoShark_TornadoAttack_DismantleActions[0].ActionLog.LogText",
+                    "ParentObjectID": "05ff79a2904111eda76f04ea56599bd2"
+                }
+            },
+            "ActionName": {
+                "DefaultText": "试图挽回",
+                "LocalizationKey": "DisasterBeasons_Event_TornadoShark_TornadoAttack_DismantleActions[0].ActionName",
+                "ParentObjectID": "05ff79a2904111eda76f04ea56599bd2"
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "AlwaysShow": false,
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontCloseInspectionWindow": false,
+            "DontShowDestroyMessage": false,
+            "ExplorationValue": 0,
+            "ExtraDurabilityModifications": [
+                {
+                    "AffectedCards": [],
+                    "AffectedTags": [],
+                    "AppliesTo": 5,
+                    "CardChanges": 1,
+                    "ChargesChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "DropOnDestroyList": false,
+                    "FuelChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "LiquidChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "LookInInventories": false,
+                    "NOTAffectedThings": [
+                        {
+                            "Target": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "TargetWarpData": "1a7a643a9fea99946b86316aecb36347",
+                            "TargetWarpType": 3
+                        },
+                        {
+                            "Target": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "TargetWarpData": "tag_Heavy",
+                            "TargetWarpType": 3
+                        }
+                    ],
+                    "RandomAmountType": 0,
+                    "RandomlyAffectedCards": 0.25,
+                    "RequiredDurabilities": {
+                        "FuelRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "LiquidQuantityRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "ProgressRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special1Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special2Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special3Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special4Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "SpoilageRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "UsageRange": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "SendToEnvironment": [],
+                    "Special1Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special2Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special3Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special4Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "SpoilageChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "UsageChange": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "AffectedCards": [],
+                    "AffectedTags": [],
+                    "AffectedTagsWarpData": [
+                        "tag_Crop"
+                    ],
+                    "AffectedTagsWarpType": 3,
+                    "AppliesTo": 5,
+                    "CardChanges": 0,
+                    "ChargesChange": {
+                        "x": -450,
+                        "y": -150
+                    },
+                    "DropOnDestroyList": false,
+                    "FuelChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "LiquidChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "LookInInventories": false,
+                    "NOTAffectedThings": [],
+                    "RandomAmountType": 0,
+                    "RandomlyAffectedCards": 0.300000011920929,
+                    "RequiredDurabilities": {
+                        "FuelRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "LiquidQuantityRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "ProgressRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special1Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special2Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special3Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special4Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "SpoilageRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "UsageRange": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "SendToEnvironment": [],
+                    "Special1Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special2Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special3Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special4Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "SpoilageChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "UsageChange": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "AffectedCards": [],
+                    "AffectedCardsWarpData": [
+                        "9184469fbdbb00b4285a33ef55496d9c",
+                        "046ac1678aa82594c9817e57122ee900",
+                        "5afd12f21090ba748adac85deeae91f4",
+                        "2cac40974e27ad4489f371697db67162",
+                        "902fcc4e4f983504e9239df2e8b89115",
+                        "38013ed9eeb5c684da9ca7ecc46ee45b",
+                        "ef0951fed6f16bb4ba6455f08aa5d277",
+                        "d6eae85ef090b8346b93b07221361261",
+                        "dba44fba7e38acd41bee325d28cd455e",
+                        "2131b26df4baba144b3fcd047dae976b",
+                        "231fdd69ef4568d44b069e7d72020064",
+                        "46cb54af052a5854981a9b65b4ab8b48",
+                        "807058e9b35a5414aac4b0085d76fc80",
+                        "1b02062011f9cc1409fe48e49003d63f"
+                    ],
+                    "AffectedCardsWarpType": 3,
+                    "AffectedTags": [],
+                    "AppliesTo": 6,
+                    "CardChanges": 1,
+                    "ChargesChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "DropOnDestroyList": true,
+                    "FuelChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "LiquidChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "LookInInventories": false,
+                    "NOTAffectedThings": [],
+                    "RandomAmountType": 0,
+                    "RandomlyAffectedCards": 1,
+                    "RequiredDurabilities": {
+                        "FuelRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "LiquidQuantityRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "ProgressRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special1Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special2Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special3Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special4Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "SpoilageRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "UsageRange": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "SendToEnvironment": [],
+                    "Special1Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special2Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special3Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special4Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "SpoilageChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "UsageChange": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "MinMaxExplorationDrops": {
+                "x": 0,
+                "y": 0
+            },
+            "NoCardsAffectedMessage": {
+                "DefaultText": "Nothing was damaged by the storm.",
+                "LocalizationKey": "DisasterBeasons_Event_TornadoShark_TornadoAttack_DismantleActions[0].NoCardsAffectedMessage",
+                "ParentObjectID": "05ff79a2904111eda76f04ea56599bd2"
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "PerformUponInspection": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 3,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "VisibilityWithInventory": 0
+        },
+        {
+            "ActionDescription": {
+                "DefaultText": "引力重压",
+                "LocalizationKey": "DisasterBeasons_Event_TornadoShark_TornadoAttack_DismantleActions[1].ActionDescription",
+                "ParentObjectID": "d7e545eaa33211edb06704ea56599bd2"
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "抵抗",
+                "LocalizationKey": "DisasterBeasons_Event_TornadoShark_TornadoAttack_DismantleActions[1].ActionName",
+                "ParentObjectID": "d7e545eaa33211edb06704ea56599bd2"
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "AlwaysShow": false,
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontCloseInspectionWindow": false,
+            "DontShowDestroyMessage": false,
+            "ExplorationValue": 0,
+            "ExtraDurabilityModifications": [
+                {
+                    "AffectedCards": [],
+                    "AffectedCardsWarpData": [
+                        "fc905577b13411edbb9e04ea56599bd2"
+                    ],
+                    "AffectedCardsWarpType": 3,
+                    "AffectedTags": [],
+                    "AppliesTo": 0,
+                    "CardChanges": 0,
+                    "ChargesChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "DropOnDestroyList": false,
+                    "FuelChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "LiquidChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "LookInInventories": false,
+                    "NOTAffectedThings": [],
+                    "RandomAmountType": 1,
+                    "RandomlyAffectedCards": 1,
+                    "RequiredDurabilities": {
+                        "FuelRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "LiquidQuantityRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "ProgressRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special1Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special2Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special3Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "Special4Range": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "SpoilageRange": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "UsageRange": {
+                            "x": 288,
+                            "y": 864
+                        }
+                    },
+                    "SendToEnvironment": [],
+                    "Special1Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special2Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special3Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "Special4Change": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "SpoilageChange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "UsageChange": {
+                        "x": -288,
+                        "y": -288
+                    }
+                }
+            ],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "MinMaxExplorationDrops": {
+                "x": 0,
+                "y": 0
+            },
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "PerformUponInspection": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 3,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [
+                {
+                    "ExcludeInventories": false,
+                    "Inverted": false,
+                    "NotInHand": false,
+                    "OnlyInHand": true,
+                    "TriggerCard": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "TriggerCardWarpData": "fc905577b13411edbb9e04ea56599bd2",
+                    "TriggerCardWarpType": 3
+                }
+            ],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "VisibilityWithInventory": 0
+        }
+    ],
+    "DoesNotPile": false,
+    "DoesNotPinAutomatically": false,
+    "DropFromTrashButton": false,
+    "DroppedOnDestroy": [],
+    "EffectsToInventoryContent": [],
+    "EnemyAddedCover": 0.0,
+    "EnemyAddedStealth": 0.0,
+    "EnemyCoverHitProbabilityModifiers": {
+        "HeadHitProbabilityModifier": 0.0,
+        "LArmHitProbabilityModifier": 0.0,
+        "LLegHitProbabilityModifier": 0.0,
+        "RArmHitProbabilityModifier": 0.0,
+        "RLegHitProbabilityModifier": 0.0,
+        "TorsoHitProbabilityModifier": 0.0
+    },
+    "EnvironmentDamages": [],
+    "EnvironmentImprovements": [],
+    "EquipmentTags": [],
+    "ExclusivelyAcceptedLiquids": [],
+    "ExplicitBlueprintNeeded": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "ExplorationResults": [],
+    "FuelCapacity": {
+        "Active": false,
+        "CardStatName": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ExtraRateWhenEquipped": 0,
+        "FloatValue": 0,
+        "HasActionOnFull": false,
+        "HasActionOnZero": false,
+        "HidingOptions": 0,
+        "MaxValue": 0,
+        "OnFull": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnFullNotification": 0,
+        "OnZero": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnZeroNotification": 0,
+        "OverrideIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "RatePerDaytimePoint": 0,
+        "ShowPopupOnFull": false,
+        "ShowPopupOnZero": false,
+        "TextDisplay": 0
+    },
+    "InHandWhenEquipped": false,
+    "InstancedEnvironment": false,
+    "InventoryFilter": {
+        "AcceptedCards": [],
+        "AcceptedTags": [],
+        "AcceptedTypes": [],
+        "CardFilters": [],
+        "NOTAcceptedCards": [],
+        "NOTAcceptedTags": [],
+        "NOTAcceptedTypes": [],
+        "TagFilters": []
+    },
+    "InventoryIsHidden": false,
+    "InventorySlots": [],
+    "InventorySlotsText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "IsAmmo": false,
+    "IsArmor": false,
+    "IsCover": false,
+    "IsDarkPlace": false,
+    "IsHotPlace": false,
+    "IsTravelCard": false,
+    "IsWeapon": false,
+    "KeepName": false,
+    "LightSource": {
+        "IsSourceOfLight": false,
+        "LightColor": {
+            "a": 0,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "LightFlickerFreq": 0,
+        "LightFlickerStrength": 0,
+        "LightPos": {
+            "x": 0,
+            "y": 0
+        },
+        "LightSize": {
+            "x": 0,
+            "y": 0
+        },
+        "Priority": 0
+    },
+    "LiquidEvaporationRate": 0,
+    "LiquidImages": [],
+    "LiquidValidContainers": [],
+    "LocalCounterEffects": [],
+    "LocationsBackground": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "MaxLiquidCapacity": 0,
+    "MaxWeightCapacity": 0,
+    "NOTAcceptedLiquids": [],
+    "ObjectWeight": 0,
+    "OnStatsChangeActions": [],
+    "OnUnlockedLog": {
+        "Category": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "LogText": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        }
+    },
+    "PassiveEffects": [],
+    "PassiveStatEffects": [],
+    "PlayerAddedCover": 0.0,
+    "PlayerAddedStealth": 0.0,
+    "PlayerCoverHitProbabilityModifiers": {
+        "HeadHitProbabilityModifier": 0.0,
+        "LArmHitProbabilityModifier": 0.0,
+        "LLegHitProbabilityModifier": 0.0,
+        "RArmHitProbabilityModifier": 0.0,
+        "RLegHitProbabilityModifier": 0.0,
+        "TorsoHitProbabilityModifier": 0.0
+    },
+    "Progress": {
+        "Active": false,
+        "CardStatName": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ExtraRateWhenEquipped": 0,
+        "FloatValue": 0,
+        "HasActionOnFull": false,
+        "HasActionOnZero": false,
+        "HidingOptions": 0,
+        "MaxValue": 0,
+        "OnFull": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnFullNotification": 0,
+        "OnZero": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnZeroNotification": 0,
+        "OverrideIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "RatePerDaytimePoint": 0,
+        "ShowPopupOnFull": false,
+        "ShowPopupOnZero": false,
+        "TextDisplay": 0
+    },
+    "RemotePassiveEffects": [],
+    "RequiredDistance": 0,
+    "SpawningBlockedBy": [],
+    "SpawningBlockedByWarpData": [
+        "3e544147ca3997a46accf676e2d9d445",
+        "61c6a358edbdb56448bc09a3363350df",
+        "b73bca82869801e4a8c6bf9eccca161b",
+        "56de270cac01d734583e18046ab71fd7",
+        "a9f7d5db7ddf9f14d88c7fb9e0f2c68a",
+        "193f3be30d3891547a95d0d7e8539ccb",
+        "9b0a39363dd3efa4c99800349b28b0b3",
+        "c1cfefdc05fc95b43b9440194758e407",
+        "9b82bbf1e5870944594b1e518763fc50",
+        "9cb0dbeb80a5eea4099600944527bce5",
+        "9fbcfc3782619784f9a32396f0cbcd74",
+        "67ff7f8557bae4c43a25f3bbfe56e063",
+        "ad711b302797d0447a7a1ec8acf7c761",
+        "332a86ba3adde8e4b8e599b15b2dc81c",
+        "6a450b0cf520c7b458147a06027a464f",
+        "5066325b0848b6c48a0f60faa53c35c4",
+        "348c16a3a42c9634f9f4c0cd1e5cb634",
+        "db5df47a8556fb94fa08a275aef2d8b6"
+    ],
+    "SpawningBlockedByWarpType": 3,
+    "SpecialDurability1": {
+        "Active": false,
+        "CardStatName": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ExtraRateWhenEquipped": 0,
+        "FloatValue": 0,
+        "HasActionOnFull": false,
+        "HasActionOnZero": false,
+        "HidingOptions": 0,
+        "MaxValue": 0,
+        "OnFull": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnFullNotification": 0,
+        "OnZero": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnZeroNotification": 0,
+        "OverrideIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "RatePerDaytimePoint": 0,
+        "ShowPopupOnFull": false,
+        "ShowPopupOnZero": false,
+        "TextDisplay": 0
+    },
+    "SpecialDurability2": {
+        "Active": false,
+        "CardStatName": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ExtraRateWhenEquipped": 0,
+        "FloatValue": 0,
+        "HasActionOnFull": false,
+        "HasActionOnZero": false,
+        "HidingOptions": 0,
+        "MaxValue": 0,
+        "OnFull": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnFullNotification": 0,
+        "OnZero": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnZeroNotification": 0,
+        "OverrideIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "RatePerDaytimePoint": 0,
+        "ShowPopupOnFull": false,
+        "ShowPopupOnZero": false,
+        "TextDisplay": 0
+    },
+    "SpecialDurability3": {
+        "Active": false,
+        "CardStatName": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ExtraRateWhenEquipped": 0,
+        "FloatValue": 0,
+        "HasActionOnFull": false,
+        "HasActionOnZero": false,
+        "HidingOptions": 0,
+        "MaxValue": 0,
+        "OnFull": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnFullNotification": 0,
+        "OnZero": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnZeroNotification": 0,
+        "OverrideIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "RatePerDaytimePoint": 0,
+        "ShowPopupOnFull": false,
+        "ShowPopupOnZero": false,
+        "TextDisplay": 0
+    },
+    "SpecialDurability4": {
+        "Active": false,
+        "CardStatName": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ExtraRateWhenEquipped": 0,
+        "FloatValue": 0,
+        "HasActionOnFull": false,
+        "HasActionOnZero": false,
+        "HidingOptions": 0,
+        "MaxValue": 0,
+        "OnFull": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnFullNotification": 0,
+        "OnZero": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnZeroNotification": 0,
+        "OverrideIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "RatePerDaytimePoint": 0,
+        "ShowPopupOnFull": false,
+        "ShowPopupOnZero": false,
+        "TextDisplay": 0
+    },
+    "SpillsInventoryOnDestroy": false,
+    "SpoilageTime": {
+        "Active": false,
+        "CardStatName": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ExtraRateWhenEquipped": 0,
+        "FloatValue": 0,
+        "HasActionOnFull": false,
+        "HasActionOnZero": false,
+        "HidingOptions": 0,
+        "MaxValue": 0,
+        "OnFull": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnFullNotification": 0,
+        "OnZero": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnZeroNotification": 0,
+        "OverrideIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "RatePerDaytimePoint": 0,
+        "ShowPopupOnFull": false,
+        "ShowPopupOnZero": false,
+        "TextDisplay": 0
+    },
+    "StatValues": [],
+    "TagsOnBoard": [],
+    "TimeValues": [],
+    "TransferCookingResultsOnTransform": false,
+    "UniqueID": "05ff79a2904111eda76f04ea56599bd2",
+    "UniqueOnBoard": false,
+    "UnlockConditionsDesc": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "UsageDurability": {
+        "Active": false,
+        "CardStatName": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ExtraRateWhenEquipped": 0,
+        "FloatValue": 0,
+        "HasActionOnFull": false,
+        "HasActionOnZero": false,
+        "HidingOptions": 0,
+        "MaxValue": 0,
+        "OnFull": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnFullNotification": 0,
+        "OnZero": {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "ProducedCards": [],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special2Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special3Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "Special4Change": {
+                    "x": 0,
+                    "y": 0
+                },
+                "SpoilageChange": {
+                    "x": 0,
+                    "y": 0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredLiquidQuantity": 0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0,
+                    "MaxValue": 0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatInterruptions": [],
+            "StatModifications": [],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        },
+        "OnZeroNotification": 0,
+        "OverrideIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "RatePerDaytimePoint": 0,
+        "ShowPopupOnFull": false,
+        "ShowPopupOnZero": false,
+        "TextDisplay": 0
+    },
+    "VisualEffects": [],
+    "WeaponActionStatChanges": [],
+    "WeaponClashStatInfluences": [],
+    "WeaponDamage": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "WeaponDamageStatInfluences": [],
+    "WeaponIneffectiveCombatLog": {
+        "AlternateLogTexts": [],
+        "LogText": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ScreenShake": false,
+        "SoundEffects": []
+    },
+    "WeaponReach": 0.0,
+    "WeatherEffects": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "WeightReductionWhenEquipped": 0,
+    "WhenCreatedSounds": []
+}

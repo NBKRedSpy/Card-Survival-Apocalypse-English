@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "\u5929\u542f\u9879\u94fe",
+        "LocalizationKey": "DisasterBeacons_eTag_DiasterBeacons_InGameName",
+        "ParentObjectID": "2c377135c09c982488f95f550b62e9c6"
+    },
+    "MandatoryEquip": true,
+    "MaxEquipped": 1,
+    "NotifyWhenNew": false
+}

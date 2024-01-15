@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "eTag_DisasterBeacons_CompulsoryEquipment",
+        "LocalizationKey": "eTag_DisasterBeacons_CompulsoryEquipment_InGameName",
+        "ParentObjectID": "52443968a25b6df46970d876b031f75c"
+    },
+    "MandatoryEquip": true,
+    "MaxEquipped": 100,
+    "NotifyWhenNew": false
+}

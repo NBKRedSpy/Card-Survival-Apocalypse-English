@@ -1,0 +1,13 @@
+Apocalypse Installation Instructions
+
+Mod Requirements: Install bepinex and Modloader, where Modloader version is at least 1.30 or above.
+If Modloader version is less than 1.30, there will be some unknown problems, please remember to update your Modloader version in time.
+
+Modloader installation method: Download the file in the group, unzip it and move the Modloader.dll, LitJson.dll and DotNetZip.dll to the Plugins folder under BeplnEx, that is to say, the installation is completed.
+If BeplnEx is not installed, please download and install BeplnEx in the environment folder before the group file.
+
+After completing the above, copy and paste the DiasterBeacons folder directly into the Plugins folder after unzipping the file, then the installation is complete.
+
+If you have already installed a mod, then copy and paste the DiasterBeacons folder directly into the Plugins folder.
+
+If you have already installed other versions of Apocalypse, please uninstall the old version folder, delete the old DiasterBeacons folder, and then put the newly extracted DiasterBeasons into your Plugins file to complete the update.

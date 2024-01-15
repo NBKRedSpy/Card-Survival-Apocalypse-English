@@ -1,0 +1,160 @@
+{
+    "BackButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "GlobalPageLinks": [],
+    "LeftButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PageDisplay": 1,
+    "PageIllustration": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PageTitle": {
+        "DefaultText": "神秘岛屿",
+        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_1_SurvivalBasics_PageTitleyo",
+        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+    },
+    "RightButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "RightButtonWarpData": "CharacterLola_DiasterBeasons_02_Main",
+    "RightButtonWarpType": 3,
+    "Sections": [
+        {
+            "Entries": [
+                {
+                    "AnchorObjectiveTo": 0,
+                    "Conditions": [],
+                    "Content": {
+                        "DefaultText": "见证火山的爆发",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[0].Entries[0].Content",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "ContentAlignment": 0,
+                    "Image": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "ImageSizeMultiplier": 0,
+                    "ImageWarpData": "CharacterLola_DiasterBeasons_01_Default_VolcanicEruption",
+                    "ImageWarpType": 3,
+                    "InfoDisplay": 2,
+                    "ObjectiveDisplayOptions": 0,
+                    "OrderOfElements": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "OverrideAlignment": false,
+                    "PageLinks": [],
+                    "RelatedObjective": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "RelatedObjectiveWarpData": "3df0850d9a2911edba2b04ea56599bd2",
+                    "RelatedObjectiveWarpType": 3,
+                    "SpaceBtwnButtons": 0,
+                    "SpaceBtwnElements": 0,
+                    "StretchButtons": false,
+                    "Title": {
+                        "DefaultText": "火山",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[0].Entries[0].Title",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "WebLinks": []
+                },
+                {
+                    "AnchorObjectiveTo": 0,
+                    "Conditions": [],
+                    "Content": {
+                        "DefaultText": "经历雷鸣的洗礼",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[0].Entries[1].Content",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "ContentAlignment": 0,
+                    "Image": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "ImageSizeMultiplier": 0,
+                    "ImageWarpData": "CharacterLola_DiasterBeasons_01_Default_ThunderStorm",
+                    "ImageWarpType": 3,
+                    "InfoDisplay": 2,
+                    "ObjectiveDisplayOptions": 0,
+                    "OrderOfElements": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "OverrideAlignment": false,
+                    "PageLinks": [],
+                    "RelatedObjective": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "RelatedObjectiveWarpData": "4db55c8a9a3211ed9b8804ea56599bd2",
+                    "RelatedObjectiveWarpType": 3,
+                    "SpaceBtwnButtons": 0,
+                    "SpaceBtwnElements": 0,
+                    "StretchButtons": false,
+                    "Title": {
+                        "DefaultText": "雷暴",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[0].Entries[1].Title",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "WebLinks": []
+                },
+                {
+                    "AnchorObjectiveTo": 0,
+                    "Conditions": [],
+                    "Content": {
+                        "DefaultText": "聆听星辰的声音",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[0].Entries[2].Content",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "ContentAlignment": 0,
+                    "Image": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "ImageSizeMultiplier": 0,
+                    "ImageWarpData": "CharacterLola_DiasterBeasons_01_Default_MetrorShower",
+                    "ImageWarpType": 3,
+                    "InfoDisplay": 2,
+                    "ObjectiveDisplayOptions": 0,
+                    "OrderOfElements": [
+                        0,
+                        1,
+                        2
+                    ],
+                    "OverrideAlignment": false,
+                    "PageLinks": [],
+                    "RelatedObjective": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "RelatedObjectiveWarpData": "0962a5b39a3311ed80c904ea56599bd2",
+                    "RelatedObjectiveWarpType": 3,
+                    "SpaceBtwnButtons": 0,
+                    "SpaceBtwnElements": 0,
+                    "StretchButtons": false,
+                    "Title": {
+                        "DefaultText": "流星雨",
+                        "LocalizationKey": "DisasterBeacons_CharacterLola_DiasterBeasons_Sections[0].Entries[2].Title",
+                        "ParentObjectID": "286d68da349537b47a9434b1854d6501"
+                    },
+                    "WebLinks": []
+                }
+            ],
+            "SectionDisplay": 0,
+            "SpaceBtwnEntries": 0
+        }
+    ],
+    "SpaceBtwnSections": 0,
+    "TitleSeparator": false
+}

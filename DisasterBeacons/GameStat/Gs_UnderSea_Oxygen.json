@@ -1,0 +1,324 @@
+{
+    "BarColor": {
+        "a": 1,
+        "b": 0,
+        "g": 0.392156898975372,
+        "r": 1
+    },
+    "BarHighlightColor": {
+        "a": 1,
+        "b": 0,
+        "g": 0.728510022163391,
+        "r": 1
+    },
+    "BaseRatePerTick": "-100",
+    "BaseValue": 0,
+    "CannotBeInspected": false,
+    "DefaultStatusDescription": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "DefaultStatusIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "DefaultStatusName": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "Description": {
+        "DefaultText": "需要足够的氧气...",
+        "LocalizationKey": "DisasterBeasons_Gs_UnderSea_Oxygen_Description",
+        "ParentObjectID": "520b5b2c965d11ed8ac204ea56599bd2"
+    },
+    "FeedbackInfo": {
+        "Icon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "IconWarpData": "LungDamage",
+        "IconWarpType": 3,
+        "Inverted": false,
+        "NegativeIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "NegativeIconWarpData": "Cold",
+        "NegativeIconWarpType": 3,
+        "StepValue": "0"
+    },
+    "GameName": {
+        "DefaultText": "缺氧程度",
+        "LocalizationKey": "DisasterBeasons_Gs_UnderSea_Oxygen_GameName",
+        "ParentObjectID": "520b5b2c965d11ed8ac204ea56599bd2"
+    },
+    "InvertedDirection": false,
+    "MaxStalenessStack": 0,
+    "MinMaxRate": {
+        "x": 0,
+        "y": 0
+    },
+    "MinMaxValue": {
+        "x": 0,
+        "y": 200
+    },
+    "NotEnoughIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "NotEnoughText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "NoveltyCooldownDuration": 0,
+    "OverrideFeedbackPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "RequiredPerks": [],
+    "ShowActionEffects": true,
+    "StalenessMultiplier": 0,
+    "StatPriority": 0,
+    "StatusDebugMode": false,
+    "Statuses": [
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 2,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0,
+            "Description": {
+                "DefaultText": "缺氧",
+                "LocalizationKey": "DisasterBeasons_Gs_UnderSea_Oxygen_Statuses[0].Description",
+                "ParentObjectID": "520b5b2c965d11ed8ac204ea56599bd2"
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [],
+            "GameName": {
+                "DefaultText": "缺氧",
+                "LocalizationKey": "DisasterBeasons_Gs_UnderSea_Oxygen_Statuses[0].GameName",
+                "ParentObjectID": "520b5b2c965d11ed8ac204ea56599bd2"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "LungDamage",
+            "IconWarpType": 3,
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 1,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": "1",
+                "y": "49"
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 2,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0,
+            "Description": {
+                "DefaultText": "缺氧",
+                "LocalizationKey": "DisasterBeasons_Gs_UnderSea_Oxygen_Statuses[1].Description",
+                "ParentObjectID": "520b5b2c965d11ed8ac204ea56599bd2"
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [],
+            "GameName": {
+                "DefaultText": "缺氧",
+                "LocalizationKey": "DisasterBeasons_Gs_UnderSea_Oxygen_Statuses[1].GameName",
+                "ParentObjectID": "520b5b2c965d11ed8ac204ea56599bd2"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "LungDamage",
+            "IconWarpType": 3,
+            "NotifyPlayer": 2,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 2,
+            "RepeatTextNotification": 2,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": "99",
+                "y": "50"
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 4,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0,
+            "Description": {
+                "DefaultText": "极度缺氧",
+                "LocalizationKey": "DisasterBeasons_Gs_UnderSea_Oxygen_Statuses[2].Description",
+                "ParentObjectID": "520b5b2c965d11ed8ac204ea56599bd2"
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": "5",
+                        "y": "5"
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "23cd0a7d82df0744eb0de7f6e201aa8f",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "缺氧",
+                "LocalizationKey": "DisasterBeasons_Gs_UnderSea_Oxygen_Statuses[2].GameName",
+                "ParentObjectID": "520b5b2c965d11ed8ac204ea56599bd2"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "LungDamage",
+            "IconWarpType": 3,
+            "NotifyPlayer": 2,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 2,
+            "RepeatTextNotification": 2,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": "100",
+                "y": "194"
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 5,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0,
+            "Description": {
+                "DefaultText": "你死于缺氧",
+                "LocalizationKey": "DisasterBeasons_Gs_UnderSea_Oxygen_Statuses[3].Description",
+                "ParentObjectID": "520b5b2c965d11ed8ac204ea56599bd2"
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [],
+            "GameName": {
+                "DefaultText": "极度缺氧",
+                "LocalizationKey": "DisasterBeasons_Gs_UnderSea_Oxygen_Statuses[3].GameName",
+                "ParentObjectID": "520b5b2c965d11ed8ac204ea56599bd2"
+            },
+            "GameOver": true,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "LungDamage",
+            "IconWarpType": 3,
+            "NotifyPlayer": 2,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": "195",
+                "y": "200"
+            }
+        }
+    ],
+    "StatusesHaveNoBar": false,
+    "TimeOfDayMods": [],
+    "TooMuchText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "TrendIndicatorRateRange": {
+        "x": 0,
+        "y": 0
+    },
+    "UniqueID": "520b5b2c965d11ed8ac204ea56599bd2",
+    "UsesNovelty": false,
+    "Visibility": 0,
+    "VisibleGameStatStatListTab": "Damage",
+    "VisibleInDetailedList": false,
+    "VisibleValueRange": {
+        "x": 0,
+        "y": 0
+    }
+}

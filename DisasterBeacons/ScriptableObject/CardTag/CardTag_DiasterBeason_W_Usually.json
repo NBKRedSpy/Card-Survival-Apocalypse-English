@@ -1,0 +1,8 @@
+{
+    "InGameName": {
+        "DefaultText": "\u5929\u542f\u5e38\u89c4\u4f24\u53e3",
+        "LocalizationKey": "DisasterBeacons_CardTag_DiasterBeason_W_Usually_InGameName",
+        "ParentObjectID": "aaac8e44790835b4bbbb4c26ae3b0bcd"
+    },
+    "UniqueOnBoard": false
+}

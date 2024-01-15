@@ -1,0 +1,33 @@
+{
+    "ExplorationResultsWarpData": [
+        {},
+        {},
+        {
+            "ActionWarpData": {
+                "ProducedCardsWarpData": [
+                    {
+                        "DroppedCardsWarpData": [
+                            {
+                                "DroppedCard": {
+                                    "m_FileID": 0,
+                                    "m_PathID": 0
+                                },
+                                "DroppedCardWarpData": "39bf04d86df5471f8ccf16ac740e3c7f",
+                                "DroppedCardWarpType": 3,
+                                "Quantity": {
+                                    "x": 1,
+                                    "y": 1
+                                }
+                            }
+                        ],
+                        "DroppedCardsWarpType": 4
+                    }
+                ],
+                "ProducedCardsWarpType": 5
+            },
+            "ActionWarpType": 5
+        },
+        {}
+    ],
+    "ExplorationResultsWarpType": 5
+}

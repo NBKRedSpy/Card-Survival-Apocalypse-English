@@ -1,0 +1,42 @@
+{
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "425259cb06b869d45be2e7f1b5b54aff",
+        "aa33d3104cc682c4e9a163e7df9a7e13",
+        "b941606d1bfac2d4286ce5f8f70525dc",
+        "8181b39749c241a45b2197486eab3447",
+        "4847909a7267f064f9698f3257985fcc",
+        "aad830a5b79c11a44a577f1d50b0ebdc",
+        "b27730511b22d7a4faf1de7704ee201f",
+        "1607c5f92945aec4b9bd8a1fa2cc682c",
+        "c6c2dcae5525c984f8f1a8531eb2e928",
+        "94451b0c3586b86439844e257e0727e8",
+        "955e9a38acb8f7b448913fdc64c5618c",
+        "bb5b44659b896d74780944ae0cc99555",
+        "e76fdd098730b5e41bca2af2c1108e89",
+        "f7ad0bbd98d0c7948b940ac744d5dae3",
+        "151ebcdc07ef37e47b54b2867e2a93e7",
+        "8a278fccc4a3c8e42b432f29f6cae19c",
+        "aae003e000b8c304eaf6eb163503ecd2",
+        "9864458386a92594c97a505f85c1ec06",
+        "601e940f915b41f47849033d5efbceaf",
+        "e18a771c208426245bee00f674c6b4d4",
+        "1530abcc973452d4f84a2f6bd0d65c9d"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabName": {
+        "DefaultText": "Drinkable",
+        "LocalizationKey": "GpTag_Drinkable_TabName",
+        "ParentObjectID": "d9ca26ec53181eb4887b6964add60bc5"
+    }
+}

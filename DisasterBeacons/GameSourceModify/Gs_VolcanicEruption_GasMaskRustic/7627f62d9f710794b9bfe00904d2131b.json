@@ -1,0 +1,24 @@
+{
+    "PassiveStatEffectsWarpData": [
+        {
+            "ApplyEachTick": false,
+            "InstantModifier": false,
+            "IsInverse": false,
+            "RateModifier": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Stat": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "StatWarpData": "6be348d0e7cb4f0d868eb63a13eecfd9",
+            "StatWarpType": 3,
+            "ValueModifier": {
+                "x": -3.0,
+                "y": -3.0
+            }
+        }
+    ],
+    "PassiveStatEffectsWarpType": 4
+}

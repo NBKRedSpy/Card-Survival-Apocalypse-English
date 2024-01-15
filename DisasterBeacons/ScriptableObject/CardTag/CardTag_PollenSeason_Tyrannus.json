@@ -1,0 +1,8 @@
+{
+    "InGameName": {
+        "DefaultText": "\u5947\u5f02\u690d\u682a",
+        "LocalizationKey": "DisasterBeacons_tag_Tyrannus_InGameName",
+        "ParentObjectID": "dc0501851bd39a64da6cdadb588c9029"
+    },
+    "UniqueOnBoard": false
+}

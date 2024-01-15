@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "\u7a7a\u95f4\u7403",
+        "LocalizationKey": "DisasterBeacons_eTag_VineCraft_CryBall_Equipment_InGameName",
+        "ParentObjectID": "68caa8cd50e57bd41bab415e49c2f2be"
+    },
+    "MandatoryEquip": false,
+    "MaxEquipped": "2",
+    "NotifyWhenNew": false
+}

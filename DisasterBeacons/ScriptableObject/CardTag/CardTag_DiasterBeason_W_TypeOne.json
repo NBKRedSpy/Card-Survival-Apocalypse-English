@@ -1,0 +1,8 @@
+{
+    "InGameName": {
+        "DefaultText": "Open Wound",
+        "LocalizationKey": "DisasterBeacons_CardTag_DiasterBeason_W_InGameName",
+        "ParentObjectID": "aaac8e44790835b4bbbb4c26ae3b0bcd"
+    },
+    "UniqueOnBoard": false
+}

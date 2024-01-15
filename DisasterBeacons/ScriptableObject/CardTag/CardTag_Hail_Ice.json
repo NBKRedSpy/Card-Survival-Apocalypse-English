@@ -1,0 +1,8 @@
+{
+    "InGameName": {
+        "DefaultText": "Ice",
+        "LocalizationKey": "DisasterBeacons_tag_Hail_Ice_InGameName",
+        "ParentObjectID": "bf96b28a249a0684899ad99f2869ce2d"
+    },
+    "UniqueOnBoard": false
+}

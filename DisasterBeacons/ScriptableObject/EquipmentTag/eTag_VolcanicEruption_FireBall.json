@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "\u7070\u70ec",
+        "LocalizationKey": "DisasterBeacons_eTag_VolcanicEruption_FireBall_InGameName",
+        "ParentObjectID": "2c377135c09c982488f95f550b62e9c6"
+    },
+    "MandatoryEquip": false,
+    "MaxEquipped": 5,
+    "NotifyWhenNew": false
+}

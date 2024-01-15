@@ -1,0 +1,71 @@
+1.57 content update：
+Game content fix: Fixed the problem of visual anomaly in the content related to the Sea of Flowers.
+Game content fix: Now the content related to the liberation of the Sea of Flowers can be triggered normally.
+1.56：
+Game content fix: Fix the problem of abnormal pearl necklace name.
+Game content repair: Repair the problem of missing event stickers of skeleton ship.
+Game content repair: Repair the problem of losing the event stickers of Hat Cloud.
+Game content repair: Repair the problem of lost stickers of twisted vines in pollen season.
+Game content fix: Fix the problem of Weather Rainbow Lane Boots sticker loss.
+Game content fix: Fix the problem of Weather Rainbow related event stickers missing.
+Game content fix: Fix the problem of the missing sticker of Pollen Season Vine Fruit.
+Game content repair: Repair the problem of unstable meteorite sticker loss in meteor shower.
+Game content repair: Repair the problem of losing the stickers of birds during the south flight of geese.
+1.55：
+Game content adjustment: Shallow sea marine shell visual texture modification.
+Game Content Repair: Fix the problem of lost sticker of starry sky cake.
+Game content repair: Repair the problem of props light feather decal loss.
+Game content repair: Repair the problem of missing lightning stickers in bottles.
+Game content repair: Repair the problem of missing stickers for the events related to the blood moon.
+Game content fix: Repair the problem that blood wolfing will increase a small amount of eye damage.
+Game Content Adjustment: Reduce the damage effect of magma on lungs during volcanic eruption.
+Game Content Adjustment: Reduce the damage effect of smoke on lungs during volcanic eruption.
+Game content adjustment: Skeleton related content will no longer delay detonation when using explosives.
+1.54：
+
+Game content modification: Full weather decal update.
+Game content modification: Icy Cool status mapping update.
+Game content modification: Golden Fruit status map update.
+Game content modification: Red Crystal status mapping update.
+Game content modification: Scene mapping update during rainbow.
+Game content modification: Ocean Shells now support stacking interaction.
+Game content modification: Updated content mapping during Pollen Season.
+Game content adjustment: Jungle Altar now supports stacking interaction.  
+Game Content Adjustment: Event refresh frequency has been reduced during Volcanic Eruption.      
+Game Content Adjustment: Thunder now displays counts in terms of the number of times it has been used. 
+
+Gameplay fix: Fixed an issue where stitches disappeared when stitching Death Rips. 
+Game content fix: Fixed the issue where the count was not reset properly when Strange Plant triggered.  
+Gameplay fix: Fixed an issue where the event did not spawn properly when the Parrot Bird was killed.  
+Game content fix: Fix the problem that the special events of exotic plants are repeatedly refreshed in large quantities.
+Game Content Adjustment: Adjusted the consuming time of the Stone Thrower against the Blood Wolf from 15 minutes to 3 minutes.    
+Game content fix: Fix the problem that the progress bar does not increase normally when the character Laura leaves the island.  
+Game content fix: Fix the problem of refreshing the magma when it exists to douse during the volcano eruption.  
+Game content fix: Fix the issue that Ryan and Strange Plant still generate events when the player is not present.  
+Gameplay fix: Fixed an issue where items such as Inferno and Frost were still decreasing in durability when they were not turned on. 
+Gameplay fix: Fixed an issue where magma was generated in excess of a certain amount per area movement during a volcano eruption.  
+Game content fix: Fixed the issue that mist is generated in excess of a certain amount each time the area is moved during a volcanic eruption.  
+
+Game content added: New card: Snow.
+Game content added: New liquid: Snow Water.
+Game content added: New card: Snow.
+Game content added: A new change will be introduced to Blizzard.
+Game content preloaded: Astrological content will be generated during meteor showers.
+Game content preloaded: Hurricane content will be generated during Shark Tornado.
+Game content added: Cards: Ash and Hell have new interactions.
+
+1.53：
+Game content fix: Fixed the issue of abnormal display of hell maps.     
+Game Content Adjustment: Reduce the food content consumed by the relic altar.
+Game Content Adjustment: Adjust the frequency coefficient of some creatures appearing in the south flight of geese.
+Game content added: New bird creatures will spawn during the geese's southern flight.
+Game Content Adjustment: Pollen Season Strange Plants will now transform into Rainbow Flowers normally.
+Game content fix: Fixed the issue that the Ruins scene transforms into a campfire when it runs out of fuel.
+Game content fix: Fix the problem that geese flying south during volcanic eruption generate anomalies.
+Game content fix: Fix the problem that the map is still generating magma after the volcanic eruption has ended.
+Game Content Repair: Repair the problem that the cooling of the magma of the volcano eruption can be mined for an unlimited number of times.
+Game Content Adjustment: The relevant impact factor will not continue to be generated when the volcanic eruption anomaly ends.
+Game content fix: Fix the problem that the influence factor is not generated normally during the weather period of the geese flying south.
+Game content repair: Repair the problem that other meteorological influence factors continue to exist when Blood Moon Tears are used.
+Game Content Adjustment: Magma generated during volcanic eruptions will no longer affect the local air toxicity level.
+

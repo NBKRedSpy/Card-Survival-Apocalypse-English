@@ -1,0 +1,9 @@
+{
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "CardTag_VolcanicEruption_RockDrop",
+        "LocalizationKey": "CardTag_VolcanicEruption_RockDrop_InGameName",
+        "ParentObjectID": "126e6fc45fc21fc43b604e2d23a8fa8c"
+    },
+    "UniqueOnBoard": false
+}

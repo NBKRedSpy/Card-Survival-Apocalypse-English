@@ -1,0 +1,9 @@
+{
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "LongRangeWeapons_levelTwo",
+        "LocalizationKey": "CardTag_LongRangeWeapons_levelTwo_InGameName",
+        "ParentObjectID": "b02ad106de3704247a0c8c244d9bfc79"
+    },
+    "UniqueOnBoard": false
+}

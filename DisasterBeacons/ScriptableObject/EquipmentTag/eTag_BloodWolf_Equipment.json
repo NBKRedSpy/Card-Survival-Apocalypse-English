@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "\u72fc\u4eba\u8840\u8109",
+        "LocalizationKey": "DisasterBeacons_eTag_BloodWolf_Equipment_InGameName",
+        "ParentObjectID": "2c377135c09c982488f95f550b62e9c6"
+    },
+    "MandatoryEquip": "True",
+    "MaxEquipped": "5",
+    "NotifyWhenNew": false
+}

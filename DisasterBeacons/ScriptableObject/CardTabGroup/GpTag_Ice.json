@@ -1,0 +1,22 @@
+{
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "c1375a3b92ef11edb4ad04ea56599bd2"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabName": {
+        "DefaultText": "Ice",
+        "LocalizationKey": "DisasterBeacons_GpTag_Ice_TabName",
+        "ParentObjectID": "87a4614e04f707f429f088541c91bbdd"
+    }
+}

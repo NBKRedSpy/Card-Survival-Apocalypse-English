@@ -1,0 +1,8 @@
+{
+    "InGameName": {
+        "DefaultText": "\u8840\u72fc",
+        "LocalizationKey": "DisasterBeacons_tag_BloodWolf_InGameName",
+        "ParentObjectID": "dc0501851bd39a64da6cdadb588c9029"
+    },
+    "UniqueOnBoard": false
+}

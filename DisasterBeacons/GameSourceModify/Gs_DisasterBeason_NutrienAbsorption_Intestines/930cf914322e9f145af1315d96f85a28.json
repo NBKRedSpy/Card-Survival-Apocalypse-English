@@ -1,212 +1,212 @@
 {
-    "StatusesWarpData": [
+  "StatusesWarpData": [
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 0,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
         {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 0,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 2.1,
-                        "y": 2.1
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "ea9966f1a58411edbaed04ea56599bd2",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0,
-                        "y": 0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "\u809a\u5b50\u75bc",
-                "LocalizationKey": "DisasterBeacons_Gs_DiasterBeasons_NutrientAbsorption_Statuses[1].GameName",
-                "ParentObjectID": "ea9966f1a58411edbaed04ea56599bd2"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "Hunger",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 100,
-                "y": 150
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 0,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 3.1,
-                        "y": 3.1
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "ea9966f1a58411edbaed04ea56599bd2",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0,
-                        "y": 0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "\u5403\u7684\u6709\u4e9b\u591a\u4e86..",
-                "LocalizationKey": "DisasterBeacons_Gs_DiasterBeasons_NutrientAbsorption_Statuses[1].GameName",
-                "ParentObjectID": "ea9966f1a58411edbaed04ea56599bd2"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "Hunger",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 151,
-                "y": 200
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 0,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 1.1,
-                        "y": 1.1
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "ea9966f1a58411edbaed04ea56599bd2",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0,
-                        "y": 0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "\u8425\u517b\u5438\u6536",
-                "LocalizationKey": "DisasterBeacons_Gs_DiasterBeasons_NutrientAbsorption_Statuses[1].GameName",
-                "ParentObjectID": "ea9966f1a58411edbaed04ea56599bd2"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "Hunger",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 75,
-                "y": 99
-            }
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 2.1,
+            "y": 2.1
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "ea9966f1a58411edbaed04ea56599bd2",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0,
+            "y": 0
+          }
         }
-    ],
-    "StatusesWarpType": 4
+      ],
+      "GameName": {
+        "DefaultText": "\u809a\u5b50\u75bc",
+        "LocalizationKey": "T-uzH1hTwnMx4HfEBjku+2iif/gTw=",
+        "ParentObjectID": "ea9966f1a58411edbaed04ea56599bd2"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "Hunger",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 100,
+        "y": 150
+      }
+    },
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 0,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 3.1,
+            "y": 3.1
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "ea9966f1a58411edbaed04ea56599bd2",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "\u5403\u7684\u6709\u4e9b\u591a\u4e86..",
+        "LocalizationKey": "T-CgtqJFq/Xu6plcA7GV4sxGorN7k=",
+        "ParentObjectID": "ea9966f1a58411edbaed04ea56599bd2"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "Hunger",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 151,
+        "y": 200
+      }
+    },
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 0,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 1.1,
+            "y": 1.1
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "ea9966f1a58411edbaed04ea56599bd2",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "\u8425\u517b\u5438\u6536",
+        "LocalizationKey": "T-taSI+pjbXMSXtmX6hiIgug2YqJU=",
+        "ParentObjectID": "ea9966f1a58411edbaed04ea56599bd2"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "Hunger",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 75,
+        "y": 99
+      }
+    }
+  ],
+  "StatusesWarpType": 4
 }

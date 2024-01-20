@@ -1,843 +1,843 @@
 {
-    "BarColor": {
-        "a": 0.0,
-        "b": 0.0,
-        "g": 0.0,
-        "r": 0.0
+  "BarColor": {
+    "a": 0.0,
+    "b": 0.0,
+    "g": 0.0,
+    "r": 0.0
+  },
+  "BarHighlightColor": {
+    "a": 0.0,
+    "b": 0.0,
+    "g": 0.0,
+    "r": 0.0
+  },
+  "BaseRatePerTick": 0.0,
+  "BaseValue": 0.0,
+  "CannotBeInspected": false,
+  "DefaultStatusDescription": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "DefaultStatusIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DefaultStatusIconWarpData": "AirToxicity",
+  "DefaultStatusIconWarpType": 3,
+  "DefaultStatusName": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "Description": {
+    "DefaultText": "人体附近的气体情况。",
+    "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Description",
+    "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+  },
+  "FeedbackInfo": {
+    "Icon": {
+      "m_FileID": 0,
+      "m_PathID": 0
     },
-    "BarHighlightColor": {
-        "a": 0.0,
-        "b": 0.0,
-        "g": 0.0,
-        "r": 0.0
+    "Inverted": false,
+    "NegativeIcon": {
+      "m_FileID": 0,
+      "m_PathID": 0
     },
-    "BaseRatePerTick": 0.0,
-    "BaseValue": 0.0,
-    "CannotBeInspected": false,
-    "DefaultStatusDescription": {
+    "StepValue": 1.0
+  },
+  "GameName": {
+    "DefaultText": "气体毒性",
+    "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_GameName",
+    "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+  },
+  "InvertedDirection": false,
+  "MaxStalenessStack": 0,
+  "MinMaxRate": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "MinMaxValue": {
+    "x": 0.0,
+    "y": 10.0
+  },
+  "NotEnoughIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "NotEnoughText": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "NoveltyCooldownDuration": 0,
+  "OverrideFeedbackPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RequiredPerks": [],
+  "ShowActionEffects": false,
+  "StalenessMultiplier": 0.0,
+  "StatPriority": 0,
+  "StatusDebugMode": false,
+  "Statuses": [
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 0,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
         "DefaultText": "",
         "LocalizationKey": "",
         "ParentObjectID": ""
-    },
-    "DefaultStatusIcon": {
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [],
+      "GameName": {
+        "DefaultText": "气体清新",
+        "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[0].GameName",
+        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+      },
+      "GameOver": false,
+      "Icon": {
         "m_FileID": 0,
         "m_PathID": 0
-    },
-    "DefaultStatusIconWarpData": "AirToxicity",
-    "DefaultStatusIconWarpType": 3,
-    "DefaultStatusName": {
+      },
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
         "DefaultText": "",
         "LocalizationKey": "",
         "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 0,
+        "y": 0
+      }
     },
-    "Description": {
-        "DefaultText": "人体附近的气体情况。",
-        "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Description",
-        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-    },
-    "FeedbackInfo": {
-        "Icon": {
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 1,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 5.0,
+            "y": 5.0
+          },
+          "Stat": {
             "m_FileID": 0,
             "m_PathID": 0
-        },
-        "Inverted": false,
-        "NegativeIcon": {
-            "m_FileID": 0,
-            "m_PathID": 0
-        },
-        "StepValue": 1.0
-    },
-    "GameName": {
-        "DefaultText": "气体毒性",
-        "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_GameName",
-        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-    },
-    "InvertedDirection": false,
-    "MaxStalenessStack": 0,
-    "MinMaxRate": {
-        "x": 0.0,
-        "y": 0.0
-    },
-    "MinMaxValue": {
-        "x": 0.0,
-        "y": 10.0
-    },
-    "NotEnoughIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "NotEnoughText": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "NoveltyCooldownDuration": 0,
-    "OverrideFeedbackPrefab": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "RequiredPerks": [],
-    "ShowActionEffects": false,
-    "StalenessMultiplier": 0.0,
-    "StatPriority": 0,
-    "StatusDebugMode": false,
-    "Statuses": [
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 0,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [],
-            "GameName": {
-                "DefaultText": "气体清新",
-                "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[0].GameName",
-                "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 0,
-                "y": 0
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 1,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 5.0,
-                        "y": 5.0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0.0,
-                        "y": 0.0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "气体浑浊",
-                "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[1].GameName",
-                "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "AirToxicity",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 1,
-                "y": 1
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 2,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 10.0,
-                        "y": 10.0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0.0,
-                        "y": 0.0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "呼吸困难",
-                "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[2].GameName",
-                "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "AirToxicity",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 2,
-                "y": 2
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 4,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 15.0,
-                        "y": 15.0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0.0,
-                        "y": 0.0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "呼吸灼烧",
-                "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[3].GameName",
-                "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "AirToxicity",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 3,
-                "y": 3
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 4,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 20.0,
-                        "y": 20.0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0.0,
-                        "y": 0.0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "浓雾弥漫",
-                "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[3].GameName",
-                "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "AirToxicity",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 4,
-                "y": 4
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 4,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 25.0,
-                        "y": 25.0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0.0,
-                        "y": 0.0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "视界模糊",
-                "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[3].GameName",
-                "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "AirToxicity",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 5,
-                "y": 5
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 4,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 30.0,
-                        "y": 30.0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0.0,
-                        "y": 0.0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "生命禁地",
-                "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[3].GameName",
-                "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "AirToxicity",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 6,
-                "y": 6
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 4,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 35.0,
-                        "y": 35.0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0.0,
-                        "y": 0.0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "生命禁地",
-                "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[3].GameName",
-                "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "AirToxicity",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 7,
-                "y": 7
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 4,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 40.0,
-                        "y": 40.0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0.0,
-                        "y": 0.0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "生命禁地",
-                "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[3].GameName",
-                "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "AirToxicity",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 8,
-                "y": 8
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 4,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 45.0,
-                        "y": 15.0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0.0,
-                        "y": 0.0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "生命禁地",
-                "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[3].GameName",
-                "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "AirToxicity",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 9,
-                "y": 9
-            }
-        },
-        {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 4,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [],
-            "EffectsOnStats": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 50.0,
-                        "y": 50.0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 0.0,
-                        "y": 0.0
-                    }
-                }
-            ],
-            "GameName": {
-                "DefaultText": "生命禁地",
-                "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[3].GameName",
-                "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
-            },
-            "GameOver": false,
-            "Icon": {
-                "m_FileID": 0,
-                "m_PathID": 0
-            },
-            "IconWarpData": "AirToxicity",
-            "IconWarpType": 3,
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 10,
-                "y": 10
-            }
+          },
+          "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
         }
-    ],
-    "StatusesHaveNoBar": true,
-    "TimeOfDayMods": [],
-    "TooMuchText": {
+      ],
+      "GameName": {
+        "DefaultText": "气体浑浊",
+        "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[1].GameName",
+        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "AirToxicity",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
         "DefaultText": "",
         "LocalizationKey": "",
         "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 1,
+        "y": 1
+      }
     },
-    "TrendIndicatorRateRange": {
-        "x": 0.0,
-        "y": 0.0
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 2,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 10.0,
+            "y": 10.0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "呼吸困难",
+        "LocalizationKey": "DisasterBeasons_Gs_DisasterBeasons_AirToxicity_Statuses[2].GameName",
+        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "AirToxicity",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 2,
+        "y": 2
+      }
     },
-    "UniqueID": "6be348d0e7cb4f0d868eb63a13eecfd9",
-    "UsesNovelty": false,
-    "Visibility": 0,
-    "VisibleGameStatStatListTab": "Damage",
-    "VisibleInDetailedList": false,
-    "VisibleValueRange": {
-        "x": 0.0,
-        "y": 0.0
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 4,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 15.0,
+            "y": 15.0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "呼吸灼烧",
+        "LocalizationKey": "T-cRdqmOpGYMMpBV4TeJu+PU7lgn0=",
+        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "AirToxicity",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 3,
+        "y": 3
+      }
+    },
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 4,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 20.0,
+            "y": 20.0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "浓雾弥漫",
+        "LocalizationKey": "T-L1cuycVGlzHVF4Z39YLWqSk2G3k=",
+        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "AirToxicity",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 4,
+        "y": 4
+      }
+    },
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 4,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 25.0,
+            "y": 25.0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "视界模糊",
+        "LocalizationKey": "T-7lnzL0XcaZNUfml8FCTaC3lsu3E=",
+        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "AirToxicity",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 5,
+        "y": 5
+      }
+    },
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 4,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 30.0,
+            "y": 30.0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "生命禁地",
+        "LocalizationKey": "T-9LDwn40deNV5PXU0k90XFvr1YJ0=",
+        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "AirToxicity",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 6,
+        "y": 6
+      }
+    },
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 4,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 35.0,
+            "y": 35.0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "生命禁地",
+        "LocalizationKey": "T-9LDwn40deNV5PXU0k90XFvr1YJ0=",
+        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "AirToxicity",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 7,
+        "y": 7
+      }
+    },
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 4,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 40.0,
+            "y": 40.0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "生命禁地",
+        "LocalizationKey": "T-9LDwn40deNV5PXU0k90XFvr1YJ0=",
+        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "AirToxicity",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 8,
+        "y": 8
+      }
+    },
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 4,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 45.0,
+            "y": 15.0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "生命禁地",
+        "LocalizationKey": "T-9LDwn40deNV5PXU0k90XFvr1YJ0=",
+        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "AirToxicity",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 9,
+        "y": 9
+      }
+    },
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 4,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "EffectsOnActions": [],
+      "EffectsOnStats": [
+        {
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IsInverse": false,
+          "RateModifier": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "Stat": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StatWarpData": "2b55074459844b0db92c49d4c44ff6e8",
+          "StatWarpType": 3,
+          "ValueModifier": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ],
+      "GameName": {
+        "DefaultText": "生命禁地",
+        "LocalizationKey": "T-9LDwn40deNV5PXU0k90XFvr1YJ0=",
+        "ParentObjectID": "6be348d0e7cb4f0d868eb63a13eecfd9"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IconWarpData": "AirToxicity",
+      "IconWarpType": 3,
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 10,
+        "y": 10
+      }
     }
+  ],
+  "StatusesHaveNoBar": true,
+  "TimeOfDayMods": [],
+  "TooMuchText": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "TrendIndicatorRateRange": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "UniqueID": "6be348d0e7cb4f0d868eb63a13eecfd9",
+  "UsesNovelty": false,
+  "Visibility": 0,
+  "VisibleGameStatStatListTab": "Damage",
+  "VisibleInDetailedList": false,
+  "VisibleValueRange": {
+    "x": 0.0,
+    "y": 0.0
+  }
 }

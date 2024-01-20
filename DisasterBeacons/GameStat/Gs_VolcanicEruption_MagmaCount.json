@@ -1,310 +1,310 @@
 {
-    "BarColor": {
-        "a": 0.0,
-        "b": 0.0,
-        "g": 0.0,
-        "r": 0.0
+  "BarColor": {
+    "a": 0.0,
+    "b": 0.0,
+    "g": 0.0,
+    "r": 0.0
+  },
+  "BarHighlightColor": {
+    "a": 0.0,
+    "b": 0.0,
+    "g": 0.0,
+    "r": 0.0
+  },
+  "BaseRatePerTick": -12.0,
+  "BaseValue": 0.0,
+  "CannotBeInspected": false,
+  "DefaultStatusDescription": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "DefaultStatusIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DefaultStatusName": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "Description": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "FeedbackInfo": {
+    "Icon": {
+      "m_FileID": 0,
+      "m_PathID": 0
     },
-    "BarHighlightColor": {
-        "a": 0.0,
-        "b": 0.0,
-        "g": 0.0,
-        "r": 0.0
+    "Inverted": false,
+    "NegativeIcon": {
+      "m_FileID": 0,
+      "m_PathID": 0
     },
-    "BaseRatePerTick": -12.0,
-    "BaseValue": 0.0,
-    "CannotBeInspected": false,
-    "DefaultStatusDescription": {
+    "StepValue": 1.0
+  },
+  "GameName": {
+    "DefaultText": "Gs_VolcanicEruption_MagmaCount",
+    "LocalizationKey": "T-VuhI4ftuFX1nlHxt/xPwerEnClg=",
+    "ParentObjectID": "bddd370fec204f37b4ff935daf525d5d"
+  },
+  "InvertedDirection": false,
+  "MaxStalenessStack": 0,
+  "MinMaxRate": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "MinMaxValue": {
+    "x": 0.0,
+    "y": 96.0
+  },
+  "NotEnoughIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "NotEnoughText": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "NoveltyCooldownDuration": 0,
+  "OverrideFeedbackPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RequiredPerks": [],
+  "ShowActionEffects": false,
+  "StalenessMultiplier": 0.0,
+  "StatPriority": 0,
+  "StatusDebugMode": false,
+  "Statuses": [
+    {
+      "ActionsMaxTicks": 0,
+      "AlertLevel": 0,
+      "AlertSounds": [],
+      "ConfidenceModifier": 0.0,
+      "Description": {
         "DefaultText": "",
         "LocalizationKey": "",
         "ParentObjectID": ""
-    },
-    "DefaultStatusIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "DefaultStatusName": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "Description": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "FeedbackInfo": {
-        "Icon": {
-            "m_FileID": 0,
-            "m_PathID": 0
-        },
-        "Inverted": false,
-        "NegativeIcon": {
-            "m_FileID": 0,
-            "m_PathID": 0
-        },
-        "StepValue": 1.0
-    },
-    "GameName": {
-        "DefaultText": "Gs_VolcanicEruption_MagmaCount",
-        "LocalizationKey": "DisasterBeasons_Gs_VolcanicEruption_MagmaCount_GameName",
-        "ParentObjectID": "bddd370fec204f37b4ff935daf525d5d"
-    },
-    "InvertedDirection": false,
-    "MaxStalenessStack": 0,
-    "MinMaxRate": {
-        "x": 0.0,
-        "y": 0.0
-    },
-    "MinMaxValue": {
-        "x": 0.0,
-        "y": 96.0
-    },
-    "NotEnoughIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "NotEnoughText": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "NoveltyCooldownDuration": 0,
-    "OverrideFeedbackPrefab": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "RequiredPerks": [],
-    "ShowActionEffects": false,
-    "StalenessMultiplier": 0.0,
-    "StatPriority": 0,
-    "StatusDebugMode": false,
-    "Statuses": [
+      },
+      "EffectsOnActions": [
         {
-            "ActionsMaxTicks": 0,
-            "AlertLevel": 0,
-            "AlertSounds": [],
-            "ConfidenceModifier": 0.0,
-            "Description": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "EffectsOnActions": [
-                {
-                    "ActionBlockMessage": {
-                        "DefaultText": "",
-                        "LocalizationKey": "",
-                        "ParentObjectID": ""
-                    },
-                    "AddedStatModifiers": [
-                        {
-                            "ApplyEachTick": false,
-                            "InstantModifier": false,
-                            "IsInverse": false,
-                            "RateModifier": {
-                                "x": 0.0,
-                                "y": 0.0
-                            },
-                            "Stat": {
-                                "m_FileID": 0,
-                                "m_PathID": 0
-                            },
-                            "StatWarpData": "5b91a92690494e97908753f9d0b11fe2",
-                            "StatWarpType": 3,
-                            "ValueModifier": {
-                                "x": 1.0,
-                                "y": 1.0
-                            }
-                        }
-                    ],
-                    "AppliesTo": [],
-                    "AppliesToWarpData": [
-                        "TravelAction"
-                    ],
-                    "AppliesToWarpType": 3,
-                    "BlocksAction": false,
-                    "Conditions": {
-                        "NotInBackground": false,
-                        "RequiredCardsInInventory": [],
-                        "RequiredCardsNOTOnBoard": [],
-                        "RequiredCardsOnBoard": [],
-                        "RequiredContainer": [],
-                        "RequiredContainerTags": [],
-                        "RequiredDurabilityRanges": {
-                            "FuelRange": {
-                                "x": 0.0,
-                                "y": 0.0
-                            },
-                            "LiquidQuantityRange": {
-                                "x": 0.0,
-                                "y": 0.0
-                            },
-                            "ProgressRange": {
-                                "x": 0.0,
-                                "y": 0.0
-                            },
-                            "Special1Range": {
-                                "x": 0.0,
-                                "y": 0.0
-                            },
-                            "Special2Range": {
-                                "x": 0.0,
-                                "y": 0.0
-                            },
-                            "Special3Range": {
-                                "x": 0.0,
-                                "y": 0.0
-                            },
-                            "Special4Range": {
-                                "x": 0.0,
-                                "y": 0.0
-                            },
-                            "SpoilageRange": {
-                                "x": 0.0,
-                                "y": 0.0
-                            },
-                            "UsageRange": {
-                                "x": 0.0,
-                                "y": 0.0
-                            }
-                        },
-                        "RequiredEnvironment": {
-                            "m_FileID": 0,
-                            "m_PathID": 0
-                        },
-                        "RequiredEnvironmentTags": [],
-                        "RequiredLiquidContainers": [],
-                        "RequiredStatValues": [],
-                        "RequiredTagsInInventory": [],
-                        "RequiredTagsNOTOnBoard": [],
-                        "RequiredTagsOnBoard": []
-                    },
-                    "DurationModifier": 0,
-                    "GivenDurabilities": {
-                        "ChargesChange": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "FuelChange": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "Special1Change": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "Special2Change": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "Special3Change": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "Special4Change": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "SpoilageChange": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "UsageChange": {
-                            "x": 0.0,
-                            "y": 0.0
-                        }
-                    },
-                    "ReceivingDurabilities": {
-                        "ChargesChange": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "FuelChange": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "Special1Change": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "Special2Change": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "Special3Change": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "Special4Change": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "SpoilageChange": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "UsageChange": {
-                            "x": 0.0,
-                            "y": 0.0
-                        }
-                    }
-                }
-            ],
-            "EffectsOnStats": [],
-            "GameName": {
-                "DefaultText": "火山沸腾",
-                "LocalizationKey": "DisasterBeasons_Gs_VolcanicEruption_MagmaCount_GameName",
-                "ParentObjectID": "bddd370fec204f37b4ff935daf525d5d"
-            },
-            "GameOver": false,
-            "Icon": {
+          "ActionBlockMessage": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+          },
+          "AddedStatModifiers": [
+            {
+              "ApplyEachTick": false,
+              "InstantModifier": false,
+              "IsInverse": false,
+              "RateModifier": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "Stat": {
                 "m_FileID": 0,
                 "m_PathID": 0
-            },
-            "NotifyPlayer": 0,
-            "PreventingActionMessage": {
-                "DefaultText": "",
-                "LocalizationKey": "",
-                "ParentObjectID": ""
-            },
-            "RepeatAlertSounds": 0,
-            "RepeatTextNotification": 0,
-            "StatusLog": {
-                "Category": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "LogText": {
-                    "DefaultText": "",
-                    "LocalizationKey": "",
-                    "ParentObjectID": ""
-                },
-                "TicksToRegister": 0
-            },
-            "ValueRange": {
-                "x": 1,
-                "y": 96
+              },
+              "StatWarpData": "5b91a92690494e97908753f9d0b11fe2",
+              "StatWarpType": 3,
+              "ValueModifier": {
+                "x": 1.0,
+                "y": 1.0
+              }
             }
+          ],
+          "AppliesTo": [],
+          "AppliesToWarpData": [
+            "TravelAction"
+          ],
+          "AppliesToWarpType": 3,
+          "BlocksAction": false,
+          "Conditions": {
+            "NotInBackground": false,
+            "RequiredCardsInInventory": [],
+            "RequiredCardsNOTOnBoard": [],
+            "RequiredCardsOnBoard": [],
+            "RequiredContainer": [],
+            "RequiredContainerTags": [],
+            "RequiredDurabilityRanges": {
+              "FuelRange": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "LiquidQuantityRange": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "ProgressRange": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "Special1Range": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "Special2Range": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "Special3Range": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "Special4Range": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "SpoilageRange": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "UsageRange": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "RequiredEnvironment": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "RequiredEnvironmentTags": [],
+            "RequiredLiquidContainers": [],
+            "RequiredStatValues": [],
+            "RequiredTagsInInventory": [],
+            "RequiredTagsNOTOnBoard": [],
+            "RequiredTagsOnBoard": []
+          },
+          "DurationModifier": 0,
+          "GivenDurabilities": {
+            "ChargesChange": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "FuelChange": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special1Change": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special2Change": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special3Change": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special4Change": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "SpoilageChange": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "UsageChange": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "ReceivingDurabilities": {
+            "ChargesChange": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "FuelChange": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special1Change": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special2Change": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special3Change": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "Special4Change": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "SpoilageChange": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "UsageChange": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
         }
-    ],
-    "StatusesHaveNoBar": false,
-    "TimeOfDayMods": [],
-    "TooMuchText": {
+      ],
+      "EffectsOnStats": [],
+      "GameName": {
+        "DefaultText": "火山沸腾",
+        "LocalizationKey": "T-Z8I6OyvR0qUf8FaZZDNJulKr7Q8=",
+        "ParentObjectID": "bddd370fec204f37b4ff935daf525d5d"
+      },
+      "GameOver": false,
+      "Icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "NotifyPlayer": 0,
+      "PreventingActionMessage": {
         "DefaultText": "",
         "LocalizationKey": "",
         "ParentObjectID": ""
-    },
-    "TrendIndicatorRateRange": {
-        "x": 0.0,
-        "y": 0.0
-    },
-    "UniqueID": "bddd370fec204f37b4ff935daf525d5d",
-    "UsesNovelty": false,
-    "Visibility": 0,
-    "VisibleInDetailedList": false,
-    "VisibleValueRange": {
-        "x": 0.0,
-        "y": 0.0
+      },
+      "RepeatAlertSounds": 0,
+      "RepeatTextNotification": 0,
+      "StatusLog": {
+        "Category": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "LogText": {
+          "DefaultText": "",
+          "LocalizationKey": "",
+          "ParentObjectID": ""
+        },
+        "TicksToRegister": 0
+      },
+      "ValueRange": {
+        "x": 1,
+        "y": 96
+      }
     }
+  ],
+  "StatusesHaveNoBar": false,
+  "TimeOfDayMods": [],
+  "TooMuchText": {
+    "DefaultText": "",
+    "LocalizationKey": "",
+    "ParentObjectID": ""
+  },
+  "TrendIndicatorRateRange": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "UniqueID": "bddd370fec204f37b4ff935daf525d5d",
+  "UsesNovelty": false,
+  "Visibility": 0,
+  "VisibleInDetailedList": false,
+  "VisibleValueRange": {
+    "x": 0.0,
+    "y": 0.0
+  }
 }
